@@ -1,3 +1,4 @@
+// Given a temperature in celcius output C (celcius), F (fahenheit), K(kelvin)
 
 function tempConverter(temp){
     const fahrenheit = (temp * 9/5) + 32
